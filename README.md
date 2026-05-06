@@ -2,13 +2,13 @@
 
 ## Tela inicial
 
-![Login](screenshots/login.png)
+![Login](screenshots/screen_login.png)
 
 ## Tela Home
 
-![Home](screenshots/home.png)
+![Home](screenshots/screen_home.png)
 
 ## Tela de Reservas
 
-![Booking](screenshots/booking.png)
+![Booking](screenshots/screen_booking.png)
 
